@@ -29,7 +29,7 @@ Comedy| Kids and Family| Romance films brought in the higest revenue
 ![image](https://github.com/lydiamasabarakiza/Phase-1-Project/assets/122472325/5b7d4005-4cf1-4f68-a7dc-9de1219ff1c3)
 
 ## Conclusion
-The analysis leads to three recommendations for Microsoft Studios.
+The analysis leads to four recommendations for Microsoft Studios.
 
 - Microsoft Studios should aim at making more comedy, family and romance films. These have shown to have good rating from veiwers and also have high revenues.
 
